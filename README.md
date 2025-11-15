@@ -1,1 +1,2 @@
-# Room-Database-MVVM-Pattern
+<p># Room-Database-MVVM-Pattern</p>
+<p>com.dkk.projectname<br />│<br />├── <strong>data&nbsp;</strong><br />│ ├── <strong>local</strong><br />│ │ ├── <strong>dao</strong><br />│ │ │ └── TransactionDao.java<br />│ │ ├── <strong>database</strong><br />│ │ │ └── AppDatabase.java<br />│ │ └── <strong>entity</strong><br />│ │ └── TransactionEntity.java<br />│ │<br />│ └── repository<br />│ └── TransactionRepository.java<br />│<br />├── <strong>domain</strong><br />│ └── model<br />│ └── <br />│<br />├── <strong>ui</strong><br />│ └── <strong>transaction</strong><br />│ ├── TransactionViewModel.java<br />│ └── TransactionActivity.java</p>
