@@ -1,2 +1,31 @@
-<p># Room-Database-MVVM-Pattern</p>
-<p>com.dkk.projectname<br />│<br />├── <strong>data&nbsp;</strong><br />│ ├── <strong>local</strong><br />│ │ ├── <strong>dao</strong><br />│ │ │ └── TransactionDao.java<br />│ │ ├── <strong>database</strong><br />│ │ │ └── AppDatabase.java<br />│ │ └── <strong>entity</strong><br />│ │ └── TransactionEntity.java<br />│ │<br />│ └── repository<br />│ └── TransactionRepository.java<br />│<br />├── <strong>domain</strong><br />│ └── model<br />│ └── <br />│<br />├── <strong>ui</strong><br />│ └── <strong>transaction</strong><br />│ ├── TransactionViewModel.java<br />│ └── TransactionActivity.java</p>
+<hr />
+<h2>📁 Project Structure &mdash; Room Database (MVVM Pattern)</h2>
+<pre><code>com.dkk.projectname
+│
+├── data
+│   ├── local
+│   │   ├── dao
+│   │   │   └── TransactionDao.java
+│   │   ├── database
+│   │   │   └── AppDatabase.java
+│   │   └── entity
+│   │       └── TransactionEntity.java
+│   │
+│   └── repository
+│       └── TransactionRepository.java
+│
+├── domain
+│   └── model
+│       └── (Your domain models here)
+│
+├── ui
+│   └── transaction
+│       ├── TransactionViewModel.java
+│       └── TransactionActivity.java
+│
+└── (Other project files)
+</code></pre>
+<hr />
+<h3>✅ Clean &amp; Easy to Read</h3>
+<h3>✅ Perfect for Your GitHub README</h3>
+<h3>📌 MVVM + Room Standard Architecture</h3>
